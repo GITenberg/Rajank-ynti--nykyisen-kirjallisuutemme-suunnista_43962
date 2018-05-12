@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6580
     wikipedia: http://fi.wikipedia.org/wiki/Juhani_Siljo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43962#Rajank-ynti--nykyisen-kirjallisuutemme-suunnista
 gutenberg_issued: '2013-10-16'
 gutenberg_type: Text
 identifiers:
